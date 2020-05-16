@@ -1,2 +1,2 @@
-# IndegerDivision
+# IntegerDivision
 Display division by column.
